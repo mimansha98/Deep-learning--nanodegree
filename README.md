@@ -1,4 +1,4 @@
-# Deep-learning--nanodegree
+# Deep-learning-Nanodegree
 Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
 # Deep Learning (PyTorch)
 This repository contains material related to Udacity's Deep Learning Nanodegree program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
